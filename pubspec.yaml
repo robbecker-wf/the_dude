@@ -1,0 +1,6 @@
+name: 'the_dude'
+version: 1.0.0
+description: A bogus repo for testing
+author: Rob Becker <rob.becker@workiva.com>
+homepage: https://github.com/robbecker-wf/the_dude
+publish_to: https://pub.workiva.org
